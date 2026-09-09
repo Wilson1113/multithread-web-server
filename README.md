@@ -5,3 +5,6 @@ This project is mainly use for practising so no advanged crate used, and no ai u
 
 # Phrase 1
 Practising simulate the single thread webserver with simple TcpListener and response handler to send back the response which establish simple request and response connection.
+
+# Phrase 2
+Convert the single thread web server to multithread by custom stuct with finite thread and thread pool
