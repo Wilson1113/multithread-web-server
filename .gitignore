@@ -1,0 +1,8 @@
+# Rust build artifacts
+/target
+
+# Backtrace / debugger files
+*.pdb
+
+# macOS
+.DS_Store
